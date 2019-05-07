@@ -5,3 +5,4 @@
 [![GitHub stars](https://img.shields.io/github/stars/jeffzh3ng/Fuxi-Scanner.svg)](https://github.com/jeffzh3ng/Fuxi-Scanner/stargazers)
 
 代码太烂 看不下去了 立个 flag 五一重写！！
+写完了吗？
